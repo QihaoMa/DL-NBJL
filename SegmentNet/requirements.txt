@@ -1,0 +1,7 @@
+fvcore==0.1.5.post20220512
+matplotlib==3.2.2
+numpy==1.21.5
+opencv_python==4.5.4.58
+Pillow==9.2.0
+tensorboardX==2.5.1
+tqdm==4.63.0
